@@ -1,0 +1,6 @@
+# Variavel
+@URL=http://localhost:8080
+
+# --- Requests
+
+GET {{URL}} HTTP/1.1
